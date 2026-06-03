@@ -8,7 +8,7 @@ Job-O-Hunt is a full-stack **MERN** (MongoDB · Express · React · Node.js) Job
 
 | | URL |
 |---|---|
-| **Frontend** | [https://frontend-iota-opal-68.vercel.app](https://frontend-iota-opal-68.vercel.app) |
+| **Frontend** | [https://frontend-alpha-eight-33.vercel.app](https://frontend-alpha-eight-33.vercel.app) |
 | **Backend API** | [https://backend-nine-sepia-53.vercel.app](https://backend-nine-sepia-53.vercel.app) |
 
 ---
