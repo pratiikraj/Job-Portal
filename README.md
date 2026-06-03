@@ -4,12 +4,7 @@ Job-O-Hunt is a full-stack **MERN** (MongoDB · Express · React · Node.js) Job
 
 > Login sessions are persistent and all REST API endpoints are secured with JWT token verification.
 
-## 🌐 Live Demo
-
-| | URL |
-|---|---|
-| **Frontend** | [https://frontend-alpha-eight-33.vercel.app](https://frontend-alpha-eight-33.vercel.app) |
-| **Backend API** | [https://backend-nine-sepia-53.vercel.app](https://backend-nine-sepia-53.vercel.app) |
+## 🌐 Live Demo - https://frontend-alpha-eight-33.vercel.app/
 
 ---
 
